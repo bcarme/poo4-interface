@@ -1,0 +1,17 @@
+{
+    "name": "vendor/name",
+    "authors": [
+        {
+            "name": "Barbara Carmé",
+            "email": "barbara_carme@yahoo.fr"
+        }
+    ],
+    "require": {},
+
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+
+}
